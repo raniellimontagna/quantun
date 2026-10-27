@@ -10,6 +10,8 @@ module.exports = {
   async viteFinal(config) {
     return {
       ...config,
+      // Relative asset paths so the static build also works under a sub-path (GitHub Pages).
+      base: './',
       resolve: {
         alias: [
           {

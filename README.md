@@ -56,9 +56,9 @@ Components are written in TypeScript on top of Mantine 6 and Tabler Icons, which
 </table>
 
 <p align="center">
-  <img src="docs/screenshots/fab-bottom-bar-light.png" alt="Fab and BottomBar, light theme" width="240" />
+  <img src="docs/screenshots/fab-bottom-bar-light.png" alt="Fab and BottomBar, light theme" width="380" />
   &nbsp;&nbsp;
-  <img src="docs/screenshots/fab-bottom-bar-dark.png" alt="Fab and BottomBar, dark theme" width="240" />
+  <img src="docs/screenshots/fab-bottom-bar-dark.png" alt="Fab and BottomBar, dark theme" width="380" />
   <br />
   <sub><code>Fab</code> and <code>BottomBar</code> in light and dark themes</sub>
 </p>
